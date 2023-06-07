@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#container-card h4 {
+  text-align: center;
+}
+
+#container-card ul {
+  list-style: none;
+}
+
+#container-card li {
+  text-align: center;
+}
+
+#container-card a {
+  color: #ffffff;
+}
+
+#container-card a:hover {
+  text-decoration: none;
+  text-align: center;
+  color: #f5f3f3;
+}
